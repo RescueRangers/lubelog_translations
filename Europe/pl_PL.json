@@ -367,5 +367,9 @@
     "Enable_OIDC_for_Root_User": "Włącz OIDC dla użytkownika głównego",
     "Adaptive_Color_Mode": "Adaptacyjny tryb kolorów",
     "Uses_the_Default_Reminder_Email_for_OIDC_Auth": "Używa domyślnego e-maila do przypomnień dla uwierzytelniania OIDC",
-    "Odometer_Optional": "Opcjonalny licznik kilometrów"
+    "Odometer_Optional": "Opcjonalny licznik kilometrów",
+    "Odometer_Optional": "Opcjonalny licznik kilometrów",
+    "Manage_Tokens": "Zarządzaj tokenami",
+    "Generate": "Wygeneruj",
+    "Notify": "Notifikuj"
 }
