@@ -367,5 +367,17 @@
     "Enable_OIDC_for_Root_User": "Włącz OIDC dla użytkownika głównego",
     "Adaptive_Color_Mode": "Adaptacyjny tryb kolorów",
     "Uses_the_Default_Reminder_Email_for_OIDC_Auth": "Używa domyślnego e-maila do przypomnień dla uwierzytelniania OIDC",
-    "Odometer_Optional": "Opcjonalny licznik kilometrów"
+    "Odometer_Optional": "Opcjonalny licznik kilometrów",
+    "Manage_Tokens": "Zarządzaj tokenami",
+    "Generate": "Wygeneruj",
+    "Notify": "Notifikuj",
+    "Hide_Odometer_tags": "Ukryj tagi licznika",
+    "Hide_Odometer_Tags_Explanation": "Ukrywa tagi widoczne przy wpisywaniu liczby przejechanych kilometrów",
+    "Disable_Odometer_Notes": "Wyłącz pole notatek w liczniku",
+    "Strict_Odometer_Validation": "Ścisła weryfikacja licznika kilometrów",
+    "Maximum_difference": "Maksymalna różnica",
+    "Maximum_difference_between_odometer_values": "Maksymalna różnica między wartościami licznika kilometrów",
+    "Difference_between_initial_odometer_reading_and_input_is_more_than_configured_in_odometer_validation": "Różnica między początkowym odczytem licznika kilometrówa danymi wejściowymi jest większa niż skonfigurowana w walidacji licznika kilometrów.",
+    "Odometer_value_cannot_be_empty_or_negative": "Wartość licznika kilometrów nie może być pusta ani ujemna",
+    "Odometer_value_can't_be_less_than_initial_value": "Wartość licznika kilometrów nie może być mniejsza niż wartość początkowa"
 }
